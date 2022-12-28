@@ -1,3 +1,10 @@
 .nav-link:hover {
     color: pink !important;
 }
+
+@media screen and (min-width: 768px) {
+    #navbarNav{
+        margin-left: 380px;
+    }
+   
+}
