@@ -2,6 +2,11 @@
   color: pink !important;
 }
 
+@media screen and (min-width: 768px) {
+  #navbarNav {
+    margin-left: 380px;
+  }
+}
 * {
   margin: 0;
   padding: 0;
